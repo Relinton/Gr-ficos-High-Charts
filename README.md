@@ -1,1 +1,1 @@
-# Gr-ficos-High-Charts
+# Gráficos-High-Charts
